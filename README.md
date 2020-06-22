@@ -3,4 +3,4 @@ Public code release for Mill, Gordon, Balota &amp; Cole (2020): "Predicting dysf
 
 Ravi Mill (rdm146@rutgers.edu)
 
-Last update: June 19th 2020
+Last update: 22 June 2020
